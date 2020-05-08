@@ -1,0 +1,29 @@
+##Tarea
+Tarea_1.py
+pedir un numero y saber si es par o impar
+
+Tarea_2.py
+pedir nombre alumnod
+pedir carrera
+pedir 5 calificaciones
+calcular promedio
+imprimir nombre y carrera
+promedio
+si promedio es igual a 10 imprimir "A"
+si promedio es mayor o igual a 9 y promedio es menor a 10  imprimir "B"
+si promedio es menor a 9 y promedio es mayor o igual a 8 imprimir "C"
+si promedio es menor a 8 y promedio es mayor o igual a 7 imprimir "D"
+si promedio es menor a 7 y promedio es mayor o igual a 6 imprimir "E"
+si promedio es menor a 6 imprimir "C"
+si el promedio no cumple ninguna de las condiciones anteriores imprimir "promedio erroneo"
+
+
+Tarea_3.py
+Pedir un numero y que si es de 5 digitos imprimir (el numero tiene 5 digitos)
+Pedir un numero y que si es de 4 digitos imprimir (el numero tiene 4 digitos
+Pedir un numero y que si es de 3 digitos imprimir (el numero tiene 3 digitos
+Pedir un numero y que si es de 2 digitos imprimir (el numero tiene 2 digitos
+Pedir un numero y que si es de 1 digitos imprimir (el numero tiene 1 digitos
+en caso contrario imprmir "No es un numero"
+
+crear un repo en github llamado programas_python y subir los programas al repo
